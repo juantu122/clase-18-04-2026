@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Currículum</title>
+</head>
+<body>
+
+    <center>
+        <h1>JUAN CRUZ</h1>
+        <p>Desarrollador Junior en formación</p>
+        <img src="images (1).jpeg" alt="Foto de perfil">
+    </center>
+
+    <br>
+
+    <h2>Datos Personales</h2>
+    <ul>
+        <li><b>Teléfono:</b> 0963872448</li>
+        <li><b>Correo:</b> juanfercg53@gmail.com</li>
+        <li><b>Ciudad:</b> Guayaquil, Ecuador</li>
+    </ul>
+
+    <hr>
+
+    <h2>Educación</h2>
+    <p>
+        <b>Tecnologico liceo cristiano</b><br>
+        Desarrollo de software<br>
+        2024 - Presente
+    </p>
+
+    <hr>
+
+    <h2>Habilidades Académicas</h2>
+    <ul>
+        <li>Lógica de programación</li>
+        <li>Fundamentos de bases de datos</li>
+        <li>Maquetación básica en HTML</li>
+        <li>Trabajo en equipo</li>
+    </ul>
+
+    <hr>
+
+    <h2>Experiencia</h2>
+    <p>
+        <b>Pasantías Profesionales</b> (En curso)<br>
+        Actualmente cumpliendo 240 horas de formación práctica.<br>
+        
+    </p>
+
+    <br>
+
+    <center>
+        <h3>Referencias Personales</h3>
+        <p>Disponibles bajo petición</p>
+    </center>
+
+</body>
+</html>
